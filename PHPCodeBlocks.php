@@ -20,6 +20,7 @@
 
 <body>
     <h1>Hello, World!</h1>
+<!--    This following code shows examples of echo statements and also print statements. This print statement is basically like the echo but it directly prints the html text into the browser into an element of the html. -->
     <p>
         <?php
          echo "This text is displayed using standard PHP script delimiters. <br>";

@@ -20,6 +20,8 @@
 
 <body>
     <h1>PHP Environment Info</h1>
+<!--    The following code is examples of how to display text into the HTML with PHP. It also shows different php functions-->
+<!--    that will display varieties of information.-->
     <p>
         The PHP code was rendered with PHP version
         <?php

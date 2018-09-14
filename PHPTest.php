@@ -20,6 +20,7 @@
 
 <body>
     <h1>Hello, World!</h1>
+<!--    The following code will display in the browser the following statement in quotes. Then it will display a function with php information.-->
     <p>
         <?php
          echo "The following is a PHP API function call.";
