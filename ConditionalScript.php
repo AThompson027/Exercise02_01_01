@@ -9,16 +9,16 @@
  Author: Annie Thompson
  Date: 9.11.18
  
- DiceRoll2.php
+ ConditionalScript.php
  -->
-    <title>Dice Roll 2</title>
+    <title>Conditional Script</title>
     <meta charset="UFT-8">
     <meta name="viewport" content="initial-scale=1.0">
     <script src="modernizr.custom.65897.js"></script>
 </head>
 
 <body>
-    <h2>Dice Roll 2</h2>
+   <h2>Conditional Script</h2>
     <?php
     $intVariable = 75;
      $result = "";
